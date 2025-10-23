@@ -1,0 +1,5 @@
+{
+  "name": "AI Sommelier Diagnosis",
+  "description": "An AI sommelier that suggests the perfect drink for you tonight based on your mood, schedule, and dinner plans. It provides a personalized diagnosis in a fun, retro-inspired format.",
+  "requestFramePermissions": []
+}
